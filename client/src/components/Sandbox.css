@@ -1,0 +1,13 @@
+.expected-output, .actual-output, .result-window {
+    margin-top: 50px;
+    margin-inline: auto;
+    padding: 10px;
+    height: 300px;
+    width: 80%;
+    background-color: rgb(216, 216, 219);
+    border-radius: 3px;
+}
+
+.result-window {
+    height: 50px;
+}
